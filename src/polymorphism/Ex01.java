@@ -15,6 +15,7 @@ public class Ex01 {
 		eagle.move();
 		
 		human2.move2();
+
 		
 		
 	}
